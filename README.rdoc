@@ -1,0 +1,3 @@
+== Subiendo multiples archivos con CarrierWave y Rails 3
+
+Solo un pequeño ejemplo de como subir multiples archivos sin javascript solo utilizando una colección para que todo lo que venga de ese arreglo lo suba en dos tablas diferentes.
